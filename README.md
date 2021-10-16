@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Oliver Küchen
+- 👀 I’m interested in visual software development, usually frontends or games. But backend or services from time to time as well.
+- 🌱 I’m currently learning ... i would have to change this too often :p. 
+- 💞️ I’m looking to collaborate on ...
+- 📫 Simplest way to reach me is through https://www.shipbit.de or oliver.kuechen@shipbit.de
